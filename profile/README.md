@@ -75,6 +75,6 @@ Interested in contributing to LifeCall? We welcome contributions of all kinds fr
 
 ## Contact Us
 
-For more information on LifeCall, please visit our [website]([lifecall](http://daos.lifecall.cn/)) or contact us at [savitachen](savitachen001@gmail.com).
+For more information on LifeCall, please visit our website [lifecall](http://daos.lifecall.cn/) or contact us at [savitachen](savitachen001@gmail.com).
 
 Thank you for exploring LifeCall. We're excited to embark on this journey of self-discovery with you!
