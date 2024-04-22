@@ -51,7 +51,7 @@ Engage with your subconscious through dialogues rooted in Jungian archetypes. Th
 Utilize our advanced emotion recognition technology that not only interprets but quantifies your emotional state to enhance your understanding of mental health.
 
 
-### Emotion as a Lens for Health and Disease
+### DAOs Collaboration : Emotion as a Lens for Health and Disease
 
 In collaboration with health institutions, LifeCall integrates emotional data to redefine approaches to diagnosing and treating illnesses, considering both psychophysical changes and overall therapeutic effectiveness.
 
