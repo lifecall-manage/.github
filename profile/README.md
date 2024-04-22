@@ -8,7 +8,13 @@ LifeCall is a pioneering platform that combines soul-searching games, in-depth p
 
 ## Project Architecture 
 LifeCall is built on a robust and interconnected architecture that includes smart contracts, decentralized applications (dApps), AI services, and more. Here's an overview of our project architecture:
+
+data architecture
+![Project Structure2](https://github.com/lifecall-manage/.github/blob/main/lifecall-strct-2.jpeg)
+
+code architecture
 ![Project Structure](https://github.com/lifecall-manage/.github/blob/main/lifecall-strct.jpeg)
+
 
 ### 1. NFT and Game Smart Contracts
 The [LifeCall NFT and Game Smart Contracts](https://github.com/lifecall-manage/life-contract) repository houses our smart contracts for gaming projects. These contracts interact with our core server (`life-core-server`) and decentralized app (`life-dapp`), facilitating data contributions and rewards.
