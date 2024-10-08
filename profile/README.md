@@ -8,15 +8,19 @@ There are many indicators of HRV (Heart Rate Variablity), reflecting both physic
 Lifecall health watch integrates 72 HRV parameters into a unified assessment, providing a quantitative evaluation of physical and mental health every 3 minutes
 
 ## What Have We Done So Far
+
 We are having partnerships with: Sun Yat-sen University Cancer CenterChina Academy of Chinese Medical SciencesSouth China Normal UniversityAlong with:5,803 watches sold, with 6,874 users. 
 
 ## Case Study
+
 Each of the 72 parameters is integrated into a single health metric:Representing the physical and mental health status
+
 ![7ea15b21-fe75-48d9-a421-863dd7c8d0f1](https://github.com/user-attachments/assets/9d9824f8-7199-44ba-ba44-553573cf4444)
 ![b0421b24-cedd-4c1d-894e-2fb8129167a6](https://github.com/user-attachments/assets/096aed45-8f46-466a-a0f9-c75d82967afe)
 
 
 ## Tokenonimcs
+
 Wearing the watch generates data, granting users with the utility token CHI. CHI can be used to upgrade NFTs and earn governance tokens LAH. What's more..Users who exceed the average score/wearing the watch for more than 20 hours, can earn additional rewardsAs the overall average score improves, the rewards increase, motivating everyone to improve their own scores through various methods. 
 
 ## Business Model
